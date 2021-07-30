@@ -1,7 +1,10 @@
 m1 (conversation with world)
 m2 (arguing with world)
+{
+  u're not always welcome
+}
 m3 (argumental fight with facebook people)
 {
-  people can change;
+  people can change
 }
 m4 (goodbye world)
